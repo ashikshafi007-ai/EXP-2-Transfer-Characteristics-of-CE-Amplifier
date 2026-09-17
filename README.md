@@ -26,6 +26,7 @@ circuit diagram:
 
 simulation result:
 
+<img width="1012" height="623" alt="Screenshot 2026-09-08 133633" src="https://github.com/user-attachments/assets/0770ee98-a18b-4609-a202-5ced803e4dcd" />
 
 
 Result:
